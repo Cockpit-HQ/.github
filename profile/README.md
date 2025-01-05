@@ -9,4 +9,7 @@ Cockpit is an API-first, self-hosted, and modular headless content platform desi
 Say goodbye to monolithic platforms and hello to streamlined content management on your own terms.
 
 
-## Thanks for stopping by our GitHub page—fasten your seatbelt, and let’s take off together! 🚀
+### 🚀 Fasten your seatbelt, and let’s take off together!
+
+- 👉 [Official Website](https://getcockpit.com)
+- 👉 [Cockpit on Dockerhub](https://hub.docker.com/r/cockpithq/cockpit)
